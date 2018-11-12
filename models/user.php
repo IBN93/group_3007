@@ -10,5 +10,3 @@ function getAllUsers() {
     }
     return $users;
 }
-
-getAllUsers();
